@@ -525,7 +525,7 @@
          "name":"floor",
          "opacity":1,
          "type":"group",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -637,7 +637,7 @@
          "name":"walls",
          "opacity":1,
          "type":"group",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -851,7 +851,7 @@
          "name":"furniture",
          "opacity":1,
          "type":"group",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -1280,7 +1280,7 @@
          "name":"above",
          "opacity":1,
          "type":"group",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }],
@@ -1344,7 +1344,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/universit-c3-a9-lyon-2\/leslie-lw\/neurodiversity-by-marine"
+                         "value":"https:\/\/play.workadventu.re\/@\/universit-c3-a9-lyon-2\/leslie-lw\/neurodiversity-by-marine#from_christelle"
                         }]
                 }],
          "tilewidth":32
